@@ -16,7 +16,7 @@
 #import "QueueLoader.h"
 #import "NSData+Util.h"
 
-@implementation NoteModel
+@implementation NoteModel     
 
 @synthesize noteGuidsList=_noteGuidsList, needSyncNoteGuids=_needSyncNoteGuids;
 @synthesize needSyncResourceGuids=_needSyncResourceGuids;
