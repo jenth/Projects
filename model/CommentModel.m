@@ -16,7 +16,7 @@
 #import "CommentSubmitProxy.h"
 
 @implementation CommentModel
-
+   
 //@synthesize context;
 //@synthesize noteCid=_noteCid, needUploadAttach=_needUploadAttach;
 //@synthesize oldAttactId=_oldAttactId;
